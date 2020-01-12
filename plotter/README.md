@@ -62,7 +62,7 @@ jupyter notebook
 Here is the trace:
 
 ```bash
-vibhatha@vibhatha:~/sandbox/temp$ jupyter notebook
+user:~/sandbox/temp$ jupyter notebook
 [I 19:35:37.374 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
 [I 19:35:37.374 NotebookApp] Serving notebooks from local directory: /home/vibhatha/sandbox/temp
 [I 19:35:37.374 NotebookApp] The Jupyter Notebook is running at:
