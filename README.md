@@ -1,4 +1,5 @@
-# example_pkg
+# pip-packaging
+
 Example Pip Package Tutorial [Following Standard Pip Docs]
 
 This sample package was created following the Pip Package Tutorial 
