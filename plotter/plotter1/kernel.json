@@ -1,0 +1,8 @@
+{
+ "argv": ["python", "-m",
+          "plotter_kernel.plotkernel", "-f",
+          "{connection_file}"],
+ "display_name": "Plotter1",
+ "name": "Plotter1",
+ "language": "python"
+}
